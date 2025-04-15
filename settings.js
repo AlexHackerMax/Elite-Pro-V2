@@ -12,7 +12,7 @@ global.location = "Port Harcourt, Nigeria" //ur location
 
 //new
 global.botname = 'Science Kids' //ur bot name
-global.ownernumber = '2349165763385' //ur owner number
+global.ownernumber = '2347030626048' //ur owner number
 global.ownername = 'Wealth' //ur owner name
 global.websitex = "https://youtu.be/@elite-pro-empire"
 global.wagc = "https://whatsapp.com/channel/0029VaXaqHII1rcmdDBBsd3g"
@@ -21,9 +21,9 @@ global.wm = "ELITE-PRO-V2"
 global.botscript = 'https://github.com/Elite-MD/ELITE-PRO-V2' //script link
 global.packname = "Sticker By"
 global.author = "ELITE-PRO-V2"
-global.creator = "2348109263390@s.whatsapp.net"
+global.creator = "2347030626048@s.whatsapp.net"
 global.xprefix = '.'
-global.premium = ["2348109263390"] // Premium User
+global.premium = ["2347030626048"] // Premium User
 global.hituet = 0
 
 //bot sett
